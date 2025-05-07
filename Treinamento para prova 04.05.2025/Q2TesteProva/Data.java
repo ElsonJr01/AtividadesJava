@@ -11,7 +11,6 @@ public class Data {
         this.ano = ano;
     }
 
-
    public void setData(int dia, int mes, int ano) {
        this.dia = dia;
        this.mes = mes;
